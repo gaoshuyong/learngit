@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 this is a test.
 hello!
 world!
-git checkout dev
+creating a new branch is quick and simlpe
