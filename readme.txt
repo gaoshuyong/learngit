@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 this is a test.
 hello!
 world!
+git checkout dev
