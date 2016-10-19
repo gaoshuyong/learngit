@@ -3,5 +3,4 @@ Git is free software distributed under the GPL.
 this is a test.
 hello!
 world!
-1creating a new branch is quick and simlpe
-0
+creating a new branch is quick and simlpe.
